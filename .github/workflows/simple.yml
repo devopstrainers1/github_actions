@@ -2,5 +2,5 @@ name: Shell Command
 on: [push]
 
 jobs:
-  run-shell-command
-    run-on
+  run-shell-command:
+    run-on: 
